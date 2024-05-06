@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, Java, JavaScript, PHP, HTML, SQL React.js, CSS,**
 
-<! --- 📫 How to reach me **gayangabandara20@gmail.com**-->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
