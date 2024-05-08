@@ -30,8 +30,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.twitter.com/Gayanga20" target="blank"><img align="center" src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.1700460183.1712793600&semt=ais" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gayanga-bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.twitter.com/Gayanga20" target="blank"><img align="center" src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.1700460183.1712793600&semt=ais" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100068891631401&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" target="blank" alt="" height="30" width="40" /></a>
 <a href="https://https://www.instagram.com/gayanga_bandara?igsh=MXVscXYwZXNsemNvaw=="><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
