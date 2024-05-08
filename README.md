@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishwa Sandun Chandrasekara</h1>
+<h1 align="center">Hi 👋, I'm Gyanga Bandara</h1>
 
 <img src="https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg" alt="Image Description">
 
@@ -6,8 +6,8 @@
 <h5 align="center">"I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man.</h5><br>
 <br><br>
 
-<h3>Hey Vishwa You Have 👉 <a href="https://github.com/vishwaschandrasekara5" target="_blank" rel="noopener" >
-  <img src="https://komarev.com/ghpvc/?username=vishwaschandrasekara5&style=for-the-badge" alt="Profile Views" style="max-width: 100;"> </a>
+<h3>Hey Gayanga You Have 👉 <a href="https://github.com/GayangaBandara" target="_blank" rel="noopener" >
+  <img src="https://komarev.com/ghpvc/?username=GayangaBandara&style=for-the-badge" alt="Profile Views" style="max-width: 100;"> </a>
 </h3>
 
 <p align="center"> <img src="" alt="" /> </p>
@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **PHP JavaScript**
 
-- 📫 How to reach me **sandunv05@gmail.com**
+- 📫 How to reach me **gayangabandara20@gmail.com**
 
 - ⚡ Fun fact **coding Life**
 
