@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gyanga Bandara</h1>
 
-<img src="https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg" alt="Image Description">
+<img src="[https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j8s2h4erdejm82dyyn7.png)" alt="Image Description">
 
 
 <h5 align="center">"I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man.</h5><br>
