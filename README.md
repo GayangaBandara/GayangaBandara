@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gyanga Bandara</h1>
 
-<img src="https://docs.ionos.space/assets/static/githubactions-cover.bd64798.c7f7a2d8af766db355fafb89a83091c2.png" height="300" alt="Image Description">
+<center>
+<img src="https://docs.ionos.space/assets/static/githubactions-cover.bd64798.c7f7a2d8af766db355fafb89a83091c2.png" height="300" alt="Image Description" ></center>
 
 
 <h5 align="center">"I enjoy the responsibility of working with a team and helping the company grow. My goal is to keep up with new technology and use it regularly to bring innovative ideas to benefit humanity"</h5><br>
