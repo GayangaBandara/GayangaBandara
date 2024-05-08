@@ -3,7 +3,7 @@
 <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j8s2h4erdejm82dyyn7.png" alt="Image Description">
 
 
-<h5 align="center">"I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man.</h5><br>
+<h5 align="center">"I enjoy the responsibility of working with a team and helping the company grow. My goal is to keep up with new technology and use it regularly to bring innovative ideas to benefit humanity"</h5><br>
 <br><br>
 
 <h3>Hey Gayanga You Have 👉 <a href="https://github.com/GayangaBandara" target="_blank" rel="noopener" >
