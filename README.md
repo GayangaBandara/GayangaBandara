@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pissu Whutta</h1>
+<h1 align="center">Hi 👋, I'm Gayanga Bandara</h1>
 <p align="center">
   <img src="https://docs.ionos.space/assets/static/githubactions-cover.bd64798.c7f7a2d8af766db355fafb89a83091c2.png" alt="Header Image">
 </p>
