@@ -1,10 +1,10 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20👋%2C%20I'm%20Gayanga%20Bandara&fontSize=40&fontAlignY=35&desc=Web%20Developer%20|%20Tech%20Explorer%20|%20Lifelong%20Learner&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20👋%2C%20I'm%20Gayanga%20Bandara&fontSize=40&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Tech%20Explorer%20|%20Lifelong%20Learner&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/GayangaBandara">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer;JavaScript+%26+PHP+Enthusiast;Always+Learning+New+Things;Turning+Ideas+into+Reality">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;JavaScript+%26+PHP+Enthusiast;Always+Learning+New+Things;Turning+Ideas+into+Reality">
   </a>
 </p>
 
@@ -46,14 +46,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GayangaBandara&theme=radical&border_radius=15&background=0D1117&stroke=FFFFFF" height="180px"/>
-</p>
-
----
-
-<!-- Achievements -->
-## 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GayangaBandara&theme=onedark&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
