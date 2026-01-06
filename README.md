@@ -44,18 +44,18 @@
 
 ---
 
-## 📊 GitHub Analytics (Self-Hosted)
+## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://YOUR-VERCEL-APP.vercel.app/api?username=GayangaBandara&show_icons=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=GayangaBandara&show_icons=true&theme=dark"
     height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=GayangaBandara&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayangaBandara&layout=compact&theme=dark"
     height="180"
   />
 </p>
