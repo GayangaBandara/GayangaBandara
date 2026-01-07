@@ -42,26 +42,20 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GayangaBandara&show_icons=true&theme=dark"
-    height="180"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayangaBandara&layout=compact&theme=dark"
-    height="180"
-  />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GayangaBandara&theme=dracula" alt="Gayanga's Profile Details" />
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=GayangaBandara&theme=dark"
-    height="180"
-  />
-</p>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GayangaBandara&theme=dracula" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GayangaBandara&theme=dracula" alt="Most Commited Languages" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GayangaBandara&theme=dracula" alt="General Stats" />
+
+</div>
 
 ---
 
