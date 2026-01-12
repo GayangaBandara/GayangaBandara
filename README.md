@@ -1,6 +1,13 @@
 <!-- ================= HERO BANNER ================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hi%20👋,%20I'm%20Gayanga%20Bandara&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Tech%20Explorer%20•%20Problem%20Solver&descAlignY=55" width="100%"/>
 
+<!-- ================= PORTFOLIO BUTTON ================= -->
+<p align="center">
+  <a href="https://gayanga.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Portfolio-Live%20Website-black?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
 <!-- ================= TYPING INTRO ================= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Flutter+%7C+Node.js;Building+Scalable+Web+Apps;Turning+Ideas+into+Products" />
@@ -44,16 +51,16 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GayangaBandara&theme=dracula" alt="Gayanga's Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GayangaBandara&theme=dracula" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GayangaBandara&theme=dracula" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GayangaBandara&theme=dracula" alt="Most Commited Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GayangaBandara&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GayangaBandara&theme=dracula" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GayangaBandara&theme=dracula" alt="General Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GayangaBandara&theme=dracula" />
 
 </div>
 
@@ -78,6 +85,9 @@
   </a>
   <a href="https://www.instagram.com/gayanga_bandara">
     <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://gayanga.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-black?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
